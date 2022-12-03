@@ -1,0 +1,13 @@
+mostra o uso da memoria RAM e SWAP
+
+param:
+    b: dados em bytes
+    K: dados em Kbytes
+    m: dados em Mbytes
+    g: dados em Gygabytes
+
+    o: oculata a linha de informacoes sobre os buffers usados pelo kernel
+    t: mostra qt. total de memoria do sistema, memoria livre e em uso
+
+ex:
+    free -m

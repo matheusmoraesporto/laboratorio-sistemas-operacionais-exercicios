@@ -1,0 +1,12 @@
+Execução do backup - 20/08/2022
+Horário de início - 21:59:46
+Arquivos compactados: 
+/so/test_backup/
+/so/test_backup/a_text.txt
+/so/test_backup/path_test/
+/so/test_backup/path_test/text_2.txt
+/so/test_backup/path_test/hello-world.sh
+/so/test_backup/hello-world.js
+/so/test_backup/another
+Diretório de backup: ./backup/
+Horário da finalização - 21:59:52
